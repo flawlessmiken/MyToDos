@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">My ToDos</string>
+    <string name="add_word">Add a New word</string>
+</resources>
